@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,7 +12,10 @@ namespace GauronskisD_VismaLibrary
     {
         static void Main(string[] args)
         {
-            string fd = @"library.json";
+            string workingDirectory = Environment.CurrentDirectory;
+            string projectDirectory = Directory.GetParent(workingDirectory).Parent.Parent.FullName;
+            string fd = projectDirectory + "\\library.json";
+
             BookController bookController = new BookController(fd);
             bookController.ReadJson();
             Book book1 = new Book("name1", "author1", "category1", "language1", DateTime.Now, "123-123-123");
