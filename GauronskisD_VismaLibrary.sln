@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GauronskisD_VismaLibrary", "GauronskisD_VismaLibrary.csproj", "{8603A488-C774-4778-A87A-CB153E330E6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryTests", "..\LibraryTests\LibraryTests.csproj", "{9BAC43BD-9D65-4C35-83C3-359C1B8C3EDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryTests", "LibraryTests\LibraryTests.csproj", "{0094FBC3-FA52-4450-BB6F-3912E72032B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8603A488-C774-4778-A87A-CB153E330E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8603A488-C774-4778-A87A-CB153E330E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8603A488-C774-4778-A87A-CB153E330E6D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9BAC43BD-9D65-4C35-83C3-359C1B8C3EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9BAC43BD-9D65-4C35-83C3-359C1B8C3EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9BAC43BD-9D65-4C35-83C3-359C1B8C3EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9BAC43BD-9D65-4C35-83C3-359C1B8C3EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0094FBC3-FA52-4450-BB6F-3912E72032B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0094FBC3-FA52-4450-BB6F-3912E72032B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0094FBC3-FA52-4450-BB6F-3912E72032B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0094FBC3-FA52-4450-BB6F-3912E72032B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
