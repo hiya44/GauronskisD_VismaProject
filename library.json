@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "name1",
+    "Author": "author1",
+    "Category": "category1",
+    "Language": "language1",
+    "PublicationDate": "2021-10-22T16:36:24.6010539+03:00",
+    "ISBN": "123-123-123",
+    "IsTaken": true,
+    "TakenBy": "Dominykas",
+    "DateTaken": "2021-10-22T16:44:52.6403941+03:00",
+    "EstimatedReturn": "2021-11-03T16:44:52.6403941+02:00"
+  },
+  {
+    "Name": "name2",
+    "Author": "author2",
+    "Category": "category2",
+    "Language": "language2",
+    "PublicationDate": "2021-10-22T16:36:24.6065503+03:00",
+    "ISBN": "223-123-123",
+    "IsTaken": true,
+    "TakenBy": "Domas",
+    "DateTaken": "2021-10-22T16:46:10.7797315+03:00",
+    "EstimatedReturn": "2021-11-13T16:46:10.7797315+02:00"
+  },
+  {
+    "Name": "name3",
+    "Author": "author3",
+    "Category": "category3",
+    "Language": "language3",
+    "PublicationDate": "2021-10-22T16:36:24.6065536+03:00",
+    "ISBN": "323-123-123",
+    "IsTaken": false,
+    "TakenBy": null,
+    "DateTaken": "0001-01-01T00:00:00",
+    "EstimatedReturn": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "name3",
+    "Author": "author3",
+    "Category": "category3",
+    "Language": "language3",
+    "PublicationDate": "2021-10-22T16:57:16.0421227+03:00",
+    "ISBN": "423-123-123",
+    "IsTaken": false,
+    "TakenBy": null,
+    "DateTaken": "0001-01-01T00:00:00",
+    "EstimatedReturn": "0001-01-01T00:00:00"
+  }
+]
